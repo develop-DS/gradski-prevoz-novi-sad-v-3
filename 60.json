@@ -1,0 +1,27 @@
+{
+  "date": "2018-04-25T20:56:27.561Z",
+  "info": [],
+  "weekday": {
+    "starting_points_A": [
+      "08:30",
+      "13:05",
+      "16:50",
+      "18:43"
+    ],
+    "starting_points_B": [
+      "06:45",
+      "09:15",
+      "13:50",
+      "17:35",
+      "19:40"
+    ]
+  },
+  "saturday": {
+    "starting_points_A": [],
+    "starting_points_B": []
+  },
+  "sunday": {
+    "starting_points_A": [],
+    "starting_points_B": []
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "date": "2018-04-25T20:56:08.533Z",
+  "info": [
+    "AL = ALBUS",
+    "ALM = ALBUS I MASINOREMONT",
+    "MAL = MASINOREMONT I ALBUS"
+  ],
+  "weekday": {
+    "starting_points_A": [
+      "05:20AL",
+      "05:35MAL",
+      "06:15AL",
+      "06:40MAL",
+      "07:35MAL",
+      "13:35AL",
+      "21:35AL"
+    ],
+    "starting_points_B": [
+      "06:05AL",
+      "14:10ALM",
+      "15:05ALM",
+      "16:10AL",
+      "22:15AL"
+    ]
+  },
+  "saturday": {
+    "starting_points_A": [
+      "05:35AL",
+      "13:35AL"
+    ],
+    "starting_points_B": [
+      "06:10AL",
+      "14:10AL"
+    ]
+  },
+  "sunday": {
+    "starting_points_A": [],
+    "starting_points_B": []
+  }
+}

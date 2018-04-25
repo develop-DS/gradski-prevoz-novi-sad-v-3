@@ -1,0 +1,66 @@
+{
+  "date": "2018-04-25T20:56:13.376Z",
+  "info": [
+    "KN = OD KOTEKSPROD.PORED NEOPLANTE",
+    "NK = DO NEOPLANTE I KOTEKSPRODUKTA",
+    "NP = NEOPLANTA"
+  ],
+  "weekday": {
+    "starting_points_A": [
+      "05:20NK",
+      "05:30NK",
+      "06:05NP",
+      "06:35NP",
+      "07:00NP",
+      "07:30NK",
+      "09:30NK",
+      "12:30NP",
+      "13:20NK",
+      "17:20NK",
+      "21:30NK"
+    ],
+    "starting_points_B": [
+      "06:15KN",
+      "07:30NP",
+      "10:05KN",
+      "13:20NP",
+      "14:15KN",
+      "15:10NP",
+      "16:10KN",
+      "18:15KN",
+      "21:20NP",
+      "22:15KN"
+    ]
+  },
+  "saturday": {
+    "starting_points_A": [
+      "05:20NK",
+      "05:35NP",
+      "06:40NP",
+      "13:20NK",
+      "17:20NK",
+      "21:20NK"
+    ],
+    "starting_points_B": [
+      "06:10NP",
+      "06:15KN",
+      "14:15KN",
+      "18:15KN",
+      "22:15KN"
+    ]
+  },
+  "sunday": {
+    "starting_points_A": [
+      "05:30NK",
+      "13:20NK",
+      "17:20NK",
+      "21:20NK"
+    ],
+    "starting_points_B": [
+      "06:15KN",
+      "14:15KN",
+      "18:15KN",
+      "22:15KN"
+    ]
+  }
+}

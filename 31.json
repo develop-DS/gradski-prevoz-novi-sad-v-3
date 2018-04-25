@@ -1,0 +1,25 @@
+{
+  "date": "2018-04-25T20:56:20.380Z",
+  "info": [
+    "ĐK = ĐAČKI KOLONIJA",
+    "K = KOLONIJA TEMERIN"
+  ],
+  "weekday": {
+    "starting_points_A": [
+      "04:55K"
+    ],
+    "starting_points_B": [
+      "05:25K",
+      "06:35ĐK",
+      "12:50ĐK"
+    ]
+  },
+  "saturday": {
+    "starting_points_A": [],
+    "starting_points_B": []
+  },
+  "sunday": {
+    "starting_points_A": [],
+    "starting_points_B": []
+  }
+}
