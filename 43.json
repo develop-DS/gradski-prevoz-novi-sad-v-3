@@ -1,7 +1,8 @@
 {
-  "date": "2018-10-31T23:00:00.000Z",
+  "date": "2018-11-30T23:00:00.000Z",
   "info": [
     "KR = KROZ RUMENKU",
+    "RTK = KROZ RUMENKU I TANK.UL. U KISACU",
     "TK = KROZ TANKOS.UL.U KISAČU"
   ],
   "weekday": {
@@ -22,7 +23,7 @@
       "18:20TK",
       "19:35",
       "20:35",
-      "21:25TK",
+      "21:25RTK",
       "22:45TK",
       "01:15TK"
     ],

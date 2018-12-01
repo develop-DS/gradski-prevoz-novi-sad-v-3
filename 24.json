@@ -1,8 +1,9 @@
 {
-  "date": "2018-10-31T23:00:00.000Z",
+  "date": "2018-11-30T23:00:00.000Z",
   "info": [
     "AKN = OD ALBUSA KOTEKSPRO.I NEOPLANTE",
     "C = DO CENTRA N.SADA",
+    "MA = DO MANASTIRA",
     "NKA = DO NEOPLANTE KOTEKSPR.I ALBUSA"
   ],
   "weekday": {
@@ -12,15 +13,15 @@
       "05:35",
       "06:40",
       "07:30",
-      "08:30",
+      "08:30MA",
       "09:30",
-      "10:30",
+      "10:30MA",
       "11:30",
-      "12:25",
+      "12:25MA",
       "13:05",
       "13:30",
       "14:05AKN",
-      "14:15",
+      "14:15MA",
       "14:40",
       "15:15",
       "15:35",
